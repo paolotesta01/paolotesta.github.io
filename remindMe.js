@@ -1,6 +1,3 @@
-//import { initializeApp } from 
-
-
 const inputEl = document.getElementById("input-el")
 const enterBtn = document.getElementById("enter-btn")
 const moviesListEl = document.getElementById("movies-list-el")
